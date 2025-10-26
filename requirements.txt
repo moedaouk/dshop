@@ -4,3 +4,4 @@ Werkzeug
 reportlab
 arabic-reshaper
 python-bidi
+gunicorn
